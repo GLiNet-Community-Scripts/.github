@@ -1,0 +1,41 @@
+name: Update Org Profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-org-profile.yml"
+      - "profile/README.template.md"
+      - "scripts/generate-profile-readme.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate profile README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ORG: GLiNet-Community-Scripts
+        run: node scripts/generate-profile-readme.mjs
+
+      - name: Commit updated profile
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update org profile readme"
+          file_pattern: "profile/README.md"
