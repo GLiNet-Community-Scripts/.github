@@ -6,7 +6,7 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 
 - `16` public repositories
 - `779` GitHub stars in total
-- Automatically updated on `8 May 2026, 08:59`
+- Automatically updated on `9 May 2026, 09:20`
 
 ## Repository Overview
 
@@ -22,7 +22,7 @@ The following list is generated automatically from all public repositories in th
 | [GL.iNet-ExternalUSB-Logs](https://github.com/GLiNet-Community-Scripts/GL.iNet-ExternalUSB-Logs) | No description provided | 0 | zippyy | [zippyy/GL.iNet-ExternalUSB-Logs](https://github.com/zippyy/GL.iNet-ExternalUSB-Logs) | 8 Apr 2026 |
 | [GL.iNet-Tailscale-Enable-SSL](https://github.com/GLiNet-Community-Scripts/GL.iNet-Tailscale-Enable-SSL) | Enable Tailscale SSL on GL.iNet Devices. | 4 | techrelay | [techrelay/GL.iNet-Tailscale-Enable-SSL](https://github.com/techrelay/GL.iNet-Tailscale-Enable-SSL) | 11 Mar 2026 |
 | [GL.iNET-Toggle-Switch](https://github.com/GLiNet-Community-Scripts/GL.iNET-Toggle-Switch) | No description provided | 0 | zippyy | [zippyy/GL.iNET-Toggle-Switch](https://github.com/zippyy/GL.iNET-Toggle-Switch) | 10 Apr 2026 |
-| [GL.iNet-VLAN-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-VLAN-Wizard) | Interactive VLAN Wizard Script | 1 | zippyy | [zippyy/GL.iNet-VLAN-Wizard](https://github.com/zippyy/GL.iNet-VLAN-Wizard) | 4 Apr 2026 |
+| [GL.iNet-VLAN-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-VLAN-Wizard) | Interactive VLAN Wizard Script | 1 | zippyy | [zippyy/GL.iNet-VLAN-Wizard](https://github.com/zippyy/GL.iNet-VLAN-Wizard) | 8 May 2026 |
 | [GL.iNet-WiFi-Cellular-Timer](https://github.com/GLiNet-Community-Scripts/GL.iNet-WiFi-Cellular-Timer) | No description provided | 0 | zippyy | [zippyy/GL.iNet-WiFi-Cellular-Timer](https://github.com/zippyy/GL.iNet-WiFi-Cellular-Timer) | 25 Mar 2026 |
 | [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 110 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
