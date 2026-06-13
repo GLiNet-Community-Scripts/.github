@@ -5,8 +5,8 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 ## At a Glance
 
 - `22` public repositories
-- `1,446` GitHub stars in total
-- Automatically updated on `12 Jun 2026, 11:12`
+- `1,447` GitHub stars in total
+- Automatically updated on `13 Jun 2026, 10:31`
 
 ## Repository Overview
 
@@ -31,7 +31,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 122 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 9 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
-| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 642 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 7 Jun 2026 |
+| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 643 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 7 Jun 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | No description provided | 204 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 29 May 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 251 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 29 May 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 28 Feb 2026 |
