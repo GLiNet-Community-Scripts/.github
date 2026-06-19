@@ -4,9 +4,9 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 
 ## At a Glance
 
-- `22` public repositories
-- `1,458` GitHub stars in total
-- Automatically updated on `18 Jun 2026, 11:45`
+- `23` public repositories
+- `1,501` GitHub stars in total
+- Automatically updated on `19 Jun 2026, 11:53`
 
 ## Repository Overview
 
@@ -36,6 +36,7 @@ The following list is generated automatically from all public repositories in th
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 253 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 29 May 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 28 Feb 2026 |
 | [OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | Deploy OpenSpeedTest with NGINX on GL.iNet OpenWrt routers — auto-install, persistence across firmware updates, external storage support, and clean uninstall. | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | 17 Apr 2026 |
+| [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 43 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 19 Jun 2026 |
 
 ## Contributing
 
