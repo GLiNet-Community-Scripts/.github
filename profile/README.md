@@ -4,9 +4,9 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 
 ## At a Glance
 
-- `27` public repositories
-- `1,551` GitHub stars in total
-- Automatically updated on `11 Jul 2026, 09:19`
+- `28` public repositories
+- `1,552` GitHub stars in total
+- Automatically updated on `12 Jul 2026, 09:37`
 
 ## Repository Overview
 
@@ -37,7 +37,8 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 663 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 28 Jun 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | No description provided | 205 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 29 May 2026 |
-| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 262 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 10 Jul 2026 |
+| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 263 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 10 Jul 2026 |
+| [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | No description provided | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 12 Jul 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 28 Feb 2026 |
 | [OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | Deploy OpenSpeedTest with NGINX on GL.iNet OpenWrt routers — auto-install, persistence across firmware updates, external storage support, and clean uninstall. | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | 5 Jul 2026 |
 | [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 46 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 19 Jun 2026 |
