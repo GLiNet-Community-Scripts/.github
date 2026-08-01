@@ -5,8 +5,8 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 ## At a Glance
 
 - `32` public repositories
-- `1,875` GitHub stars in total
-- Automatically updated on `31 Jul 2026, 10:09`
+- `1,876` GitHub stars in total
+- Automatically updated on `1 Aug 2026, 09:37`
 
 ## Repository Overview
 
@@ -17,7 +17,7 @@ The following list is generated automatically from all public repositories in th
 | [docs-astrowarp](https://github.com/GLiNet-Community-Scripts/docs-astrowarp) | No description provided | 0 | gl-inet | [gl-inet/docs-astrowarp](https://github.com/gl-inet/docs-astrowarp) | 6 Jul 2026 |
 | [docs-iot](https://github.com/GLiNet-Community-Scripts/docs-iot) | GL.iNet docs for IoT | 4 | gl-inet | [gl-inet/docs-iot](https://github.com/gl-inet/docs-iot) | 29 May 2026 |
 | [docs-kvm](https://github.com/GLiNet-Community-Scripts/docs-kvm) | No description provided | 19 | gl-inet | [gl-inet/docs-kvm](https://github.com/gl-inet/docs-kvm) | 29 May 2026 |
-| [docs4.x](https://github.com/GLiNet-Community-Scripts/docs4.x) | No description provided | 122 | gl-inet | [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) | 29 May 2026 |
+| [docs4.x](https://github.com/GLiNet-Community-Scripts/docs4.x) | No description provided | 123 | gl-inet | [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) | 29 May 2026 |
 | [flint2-vlan-tools](https://github.com/GLiNet-Community-Scripts/flint2-vlan-tools) | VLAN setup scripts and LuCI dashboard for GL.iNet Flint 2 | 0 | DJKatastrof | [DJKatastrof/flint2-vlan-tools](https://github.com/DJKatastrof/flint2-vlan-tools) | 1 May 2026 |
 | [GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | Interactive toolkit for managing, tuning, and monitoring GL.iNet OpenWrt routers — hardware insights, AdGuardHome, benchmarks, web terminal, and more. | 1 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | 30 Jul 2026 |
 | [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 96 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 6 Jul 2026 |
