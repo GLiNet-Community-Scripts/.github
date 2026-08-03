@@ -5,8 +5,8 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 ## At a Glance
 
 - `32` public repositories
-- `1,879` GitHub stars in total
-- Automatically updated on `2 Aug 2026, 09:40`
+- `1,881` GitHub stars in total
+- Automatically updated on `3 Aug 2026, 10:41`
 
 ## Repository Overview
 
@@ -38,13 +38,13 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 676 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 28 Jun 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | No description provided | 212 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 29 May 2026 |
-| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 278 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 10 Jul 2026 |
+| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 279 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 10 Jul 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | No description provided | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 12 Jul 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 28 Feb 2026 |
 | [OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | Deploy OpenSpeedTest with NGINX on GL.iNet OpenWrt routers — auto-install, persistence across firmware updates, external storage support, and clean uninstall. | 1 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | 28 Jul 2026 |
 | [openwrt-starwatch](https://github.com/GLiNet-Community-Scripts/openwrt-starwatch) | Starlink dish monitoring & management for OpenWrt/GL.iNet routers — Go daemon, embedded dashboard, LuCI + GL.iNet panel apps, opkg packaging | 7 | keithah | [keithah/openwrt-starwatch](https://github.com/keithah/openwrt-starwatch) | 18 Jul 2026 |
 | [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 49 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 19 Jun 2026 |
-| [RM520N-GL](https://github.com/GLiNet-Community-Scripts/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. | 236 | 4IceG | [4IceG/RM520N-GL](https://github.com/4IceG/RM520N-GL) | 28 Jul 2026 |
+| [RM520N-GL](https://github.com/GLiNet-Community-Scripts/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. | 237 | 4IceG | [4IceG/RM520N-GL](https://github.com/4IceG/RM520N-GL) | 28 Jul 2026 |
 | [wg-udp-relay](https://github.com/GLiNet-Community-Scripts/wg-udp-relay) | Simple private high-speed UDP intermediate relay for WireGuard VPN tunnels that includes support for self-hosted VPNs using dynamic IP endpoints (e.g. personal VPN setups) | 12 | RemoteToHome-io | [RemoteToHome-io/wg-udp-relay](https://github.com/RemoteToHome-io/wg-udp-relay) | 20 Jul 2026 |
 
 ## Contributing
