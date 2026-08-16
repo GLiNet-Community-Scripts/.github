@@ -5,8 +5,8 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 ## At a Glance
 
 - `33` public repositories
-- `1,925` GitHub stars in total
-- Automatically updated on `15 Aug 2026, 07:40`
+- `1,926` GitHub stars in total
+- Automatically updated on `16 Aug 2026, 07:42`
 
 ## Repository Overview
 
@@ -33,7 +33,7 @@ The following list is generated automatically from all public repositories in th
 | [GL.iNet-VLAN-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-VLAN-Wizard) | Interactive VLAN Wizard Script | 2 | zippyy | [zippyy/GL.iNet-VLAN-Wizard](https://github.com/zippyy/GL.iNet-VLAN-Wizard) | 30 May 2026 |
 | [GL.iNet-WiFi-Cellular-Timer](https://github.com/GLiNet-Community-Scripts/GL.iNet-WiFi-Cellular-Timer) | No description provided | 0 | zippyy | [zippyy/GL.iNet-WiFi-Cellular-Timer](https://github.com/zippyy/GL.iNet-WiFi-Cellular-Timer) | 25 Mar 2026 |
 | [Glinet_discord_bot](https://github.com/GLiNet-Community-Scripts/Glinet_discord_bot) | No description provided | 1 | wickedyoda | [wickedyoda/Glinet_discord_bot](https://github.com/wickedyoda/Glinet_discord_bot) | 1 Jul 2026 |
-| [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 143 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
+| [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 144 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 691 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 5 Aug 2026 |
