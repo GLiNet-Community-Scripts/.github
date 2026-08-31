@@ -4,9 +4,9 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 
 ## At a Glance
 
-- `36` public repositories
-- `2,003` GitHub stars in total
-- Automatically updated on `30 Aug 2026, 12:28`
+- `37` public repositories
+- `2,014` GitHub stars in total
+- Automatically updated on `31 Aug 2026, 13:35`
 
 ## Repository Overview
 
@@ -20,7 +20,7 @@ The following list is generated automatically from all public repositories in th
 | [docs4.x](https://github.com/GLiNet-Community-Scripts/docs4.x) | GL.iNet router documentation v4.x - setup guides, tutorials, and FAQs | 129 | gl-inet | [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) | 17 Aug 2026 |
 | [flint2-vlan-tools](https://github.com/GLiNet-Community-Scripts/flint2-vlan-tools) | VLAN setup scripts and LuCI dashboard for GL.iNet Flint 2 | 0 | DJKatastrof | [DJKatastrof/flint2-vlan-tools](https://github.com/DJKatastrof/flint2-vlan-tools) | 1 May 2026 |
 | [GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | Interactive toolkit for managing, tuning, and monitoring GL.iNet OpenWrt routers — hardware insights, AdGuardHome, benchmarks, web terminal, and more. | 3 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | 29 Aug 2026 |
-| [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 113 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 6 Aug 2026 |
+| [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 115 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 6 Aug 2026 |
 | [GL.iNet-CellularModels-SMSonBoot](https://github.com/GLiNet-Community-Scripts/GL.iNet-CellularModels-SMSonBoot) | Script to send SMS on Router Reboot | 3 | techrelay | [techrelay/GL.iNet-CellularModels-SMSonBoot](https://github.com/techrelay/GL.iNet-CellularModels-SMSonBoot) | 24 Jun 2026 |
 | [GL.iNet-CrossModel-BackupRestoreUtility](https://github.com/GLiNet-Community-Scripts/GL.iNet-CrossModel-BackupRestoreUtility) | A docker container for self hosted, Cross-Model Backup and Restore for GL.iNet Routers. | 5 | zippyy | [zippyy/GL.iNet-CrossModel-BackupRestoreUtility](https://github.com/zippyy/GL.iNet-CrossModel-BackupRestoreUtility) | 27 Aug 2026 |
 | [GL.iNet-DHCP-Options-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-DHCP-Options-Wizard) | Interactive DHCP options configuration wizard for GL.iNet routers | 1 | zippyy | [zippyy/GL.iNet-DHCP-Options-Wizard](https://github.com/zippyy/GL.iNet-DHCP-Options-Wizard) | 17 Aug 2026 |
@@ -35,9 +35,10 @@ The following list is generated automatically from all public repositories in th
 | [glikvm-mod](https://github.com/GLiNet-Community-Scripts/glikvm-mod) | Patches for the GLKVM Windows desktop client: sessions in separate windows, paste local clipboard into the remote machine, settings UI | 0 | emaspa | [emaspa/glikvm-mod](https://github.com/emaspa/glikvm-mod) | 27 Aug 2026 |
 | [Glinet_discord_bot](https://github.com/GLiNet-Community-Scripts/Glinet_discord_bot) | Discord bot for GL.iNet community with firmware monitoring and Tailscale automation | 1 | wickedyoda | [wickedyoda/Glinet_discord_bot](https://github.com/wickedyoda/Glinet_discord_bot) | 17 Aug 2026 |
 | [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 148 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
+| [Glinet-Bandwidth-script](https://github.com/GLiNet-Community-Scripts/Glinet-Bandwidth-script) | Per-VLAN/SSID QoS bandwidth priority script for GL.iNet Flint 3 using HTB + CAKE | 0 | wickedyoda | [wickedyoda/Glinet-Bandwidth-script](https://github.com/wickedyoda/Glinet-Bandwidth-script) | 31 Aug 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
-| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 711 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 5 Aug 2026 |
+| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 718 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 5 Aug 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 223 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 298 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
@@ -47,7 +48,7 @@ The following list is generated automatically from all public repositories in th
 | [openwrt-starwatch](https://github.com/GLiNet-Community-Scripts/openwrt-starwatch) | Starlink dish monitoring & management for OpenWrt/GL.iNet routers — Go daemon, embedded dashboard, LuCI + GL.iNet panel apps, opkg packaging | 7 | keithah | [keithah/openwrt-starwatch](https://github.com/keithah/openwrt-starwatch) | 18 Jul 2026 |
 | [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 53 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 27 Aug 2026 |
 | [RM520N-GL](https://github.com/GLiNet-Community-Scripts/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. | 243 | 4IceG | [4IceG/RM520N-GL](https://github.com/4IceG/RM520N-GL) | 28 Jul 2026 |
-| [RouterPilot](https://github.com/GLiNet-Community-Scripts/RouterPilot) | RouterPilot - A Windows desktop companion for monitoring and managing supported GL.iNet routers running AdGuard Home | 1 | TCDemo777 | [TCDemo777/RouterPilot](https://github.com/TCDemo777/RouterPilot) | 29 Aug 2026 |
+| [RouterPilot](https://github.com/GLiNet-Community-Scripts/RouterPilot) | RouterPilot - A Windows desktop companion for monitoring and managing supported GL.iNet routers running AdGuard Home | 3 | TCDemo777 | [TCDemo777/RouterPilot](https://github.com/TCDemo777/RouterPilot) | 29 Aug 2026 |
 | [Tailscale-on-AP-mode](https://github.com/GLiNet-Community-Scripts/Tailscale-on-AP-mode) | No description provided | 2 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Tailscale-on-AP-mode](https://github.com/GLiNet-Community-Scripts/Tailscale-on-AP-mode) | 27 Aug 2026 |
 | [wg-udp-relay](https://github.com/GLiNet-Community-Scripts/wg-udp-relay) | Simple private high-speed UDP intermediate relay for WireGuard VPN tunnels that includes support for self-hosted VPNs using dynamic IP endpoints (e.g. personal VPN setups) | 12 | RemoteToHome-io | [RemoteToHome-io/wg-udp-relay](https://github.com/RemoteToHome-io/wg-udp-relay) | 27 Aug 2026 |
 
