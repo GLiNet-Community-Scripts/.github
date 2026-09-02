@@ -1,12 +1,18 @@
-# GL.iNet Community Scripts
+# GL.iNet GitHub Community
 
-Community-maintained scripts, helpers, and automations for GL.iNet.
+![GL.iNet GitHub Community](../.github/glinet-community-banner.jpeg)
+
+> **Unofficial, community-maintained organization** for GL.iNet router scripts, tools, documentation, integrations, and open-source projects.
+
+This organization is **not affiliated with or endorsed by GL.iNet**. Repository ownership and maintenance remain with their respective contributors.
+
+We collect practical, open-source projects for GL.iNet and OpenWrt users: router automation, VLAN/QoS, Tailscale, AdGuard Home, cellular tooling, KVM, monitoring, documentation, and related utilities.
 
 ## At a Glance
 
 - `37` public repositories
-- `2,030` GitHub stars in total
-- Automatically updated on `2 Sept 2026, 11:37`
+- `2,031` GitHub stars in total
+- Automatically updated on `2 Sept 2026, 23:15`
 
 ## Repository Overview
 
@@ -40,7 +46,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 721 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 2 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
-| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 224 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
+| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 225 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 300 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | Community discussion and support issues for GL.iNet Community Scripts | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 17 Aug 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
@@ -52,6 +58,16 @@ The following list is generated automatically from all public repositories in th
 | [Tailscale-on-AP-mode](https://github.com/GLiNet-Community-Scripts/Tailscale-on-AP-mode) | No description provided | 2 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Tailscale-on-AP-mode](https://github.com/GLiNet-Community-Scripts/Tailscale-on-AP-mode) | 27 Aug 2026 |
 | [wg-udp-relay](https://github.com/GLiNet-Community-Scripts/wg-udp-relay) | Simple private high-speed UDP intermediate relay for WireGuard VPN tunnels that includes support for self-hosted VPNs using dynamic IP endpoints (e.g. personal VPN setups) | 12 | RemoteToHome-io | [RemoteToHome-io/wg-udp-relay](https://github.com/RemoteToHome-io/wg-udp-relay) | 27 Aug 2026 |
 
+## What You'll Find
+
+- Router scripts and utilities for GL.iNet/OpenWrt
+- Networking, VLAN, QoS, VPN, Tailscale, and ZeroTier projects
+- AdGuard Home, cellular/SMS, logging, monitoring, and diagnostics
+- GLKVM tools, firmware, desktop clients, and self-hosted services
+- Documentation, issue tracking, and community support
+
 ## Contributing
 
-Issues, pull requests, and new community projects are welcome. If you want to improve an existing repository or contribute a new script, we would love to see it.
+Issues, pull requests, and new community projects are welcome. Please clearly identify the original author or upstream project, preserve applicable licenses, test changes on supported hardware, and disclose limitations.
+
+To submit a project, open an issue in the [Issues repository](https://github.com/GLiNet-Community-Scripts/Issues) or create a pull request in the appropriate repository.
