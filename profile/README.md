@@ -1,6 +1,6 @@
 # GL.iNet GitHub Community
 
-![GL.iNet GitHub Community](../.github/glinet-community-banner.jpeg)
+<img src="../.github/glinet-community-banner.jpeg" alt="GL.iNet GitHub Community" width="50%">
 
 > **Unofficial, community-maintained organization** for GL.iNet router scripts, tools, documentation, integrations, and open-source projects.
 
