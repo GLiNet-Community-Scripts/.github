@@ -12,7 +12,7 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 
 - `37` public repositories
 - `2,031` GitHub stars in total
-- Automatically updated on `2 Sept 2026, 23:17`
+- Automatically updated on `2 Sept 2026, 23:22`
 
 ## Repository Overview
 
