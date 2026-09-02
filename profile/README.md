@@ -5,8 +5,8 @@ Community-maintained scripts, helpers, and automations for GL.iNet.
 ## At a Glance
 
 - `37` public repositories
-- `2,027` GitHub stars in total
-- Automatically updated on `1 Sept 2026, 12:05`
+- `2,030` GitHub stars in total
+- Automatically updated on `2 Sept 2026, 11:37`
 
 ## Repository Overview
 
@@ -19,8 +19,8 @@ The following list is generated automatically from all public repositories in th
 | [docs-kvm](https://github.com/GLiNet-Community-Scripts/docs-kvm) | Documentation for GL.iNet KVM products | 20 | gl-inet | [gl-inet/docs-kvm](https://github.com/gl-inet/docs-kvm) | 17 Aug 2026 |
 | [docs4.x](https://github.com/GLiNet-Community-Scripts/docs4.x) | GL.iNet router documentation v4.x - setup guides, tutorials, and FAQs | 129 | gl-inet | [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) | 17 Aug 2026 |
 | [flint2-vlan-tools](https://github.com/GLiNet-Community-Scripts/flint2-vlan-tools) | VLAN setup scripts and LuCI dashboard for GL.iNet Flint 2 | 1 | DJKatastrof | [DJKatastrof/flint2-vlan-tools](https://github.com/DJKatastrof/flint2-vlan-tools) | 1 May 2026 |
-| [GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | Interactive toolkit for managing, tuning, and monitoring GL.iNet OpenWrt routers — hardware insights, AdGuardHome, benchmarks, web terminal, and more. | 4 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | 1 Sept 2026 |
-| [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 116 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 6 Aug 2026 |
+| [GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | Interactive toolkit for managing, tuning, and monitoring GL.iNet OpenWrt routers — hardware insights, AdGuardHome, benchmarks, web terminal, and more. | 4 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | 2 Sept 2026 |
+| [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 117 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 1 Sept 2026 |
 | [GL.iNet-CellularModels-SMSonBoot](https://github.com/GLiNet-Community-Scripts/GL.iNet-CellularModels-SMSonBoot) | Script to send SMS on Router Reboot | 3 | techrelay | [techrelay/GL.iNet-CellularModels-SMSonBoot](https://github.com/techrelay/GL.iNet-CellularModels-SMSonBoot) | 24 Jun 2026 |
 | [GL.iNet-CrossModel-BackupRestoreUtility](https://github.com/GLiNet-Community-Scripts/GL.iNet-CrossModel-BackupRestoreUtility) | A docker container for self hosted, Cross-Model Backup and Restore for GL.iNet Routers. | 6 | zippyy | [zippyy/GL.iNet-CrossModel-BackupRestoreUtility](https://github.com/zippyy/GL.iNet-CrossModel-BackupRestoreUtility) | 27 Aug 2026 |
 | [GL.iNet-DHCP-Options-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-DHCP-Options-Wizard) | Interactive DHCP options configuration wizard for GL.iNet routers | 1 | zippyy | [zippyy/GL.iNet-DHCP-Options-Wizard](https://github.com/zippyy/GL.iNet-DHCP-Options-Wizard) | 17 Aug 2026 |
@@ -38,9 +38,9 @@ The following list is generated automatically from all public repositories in th
 | [Glinet-Bandwidth-script](https://github.com/GLiNet-Community-Scripts/Glinet-Bandwidth-script) | Per-VLAN/SSID QoS bandwidth priority script for GL.iNet Flint 3 using HTB + CAKE | 0 | wickedyoda | [wickedyoda/Glinet-Bandwidth-script](https://github.com/wickedyoda/Glinet-Bandwidth-script) | 31 Aug 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
-| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 720 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 5 Aug 2026 |
+| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 721 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 2 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
-| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 223 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
+| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 224 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 300 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | Community discussion and support issues for GL.iNet Community Scripts | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 17 Aug 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
