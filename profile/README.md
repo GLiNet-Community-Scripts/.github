@@ -1,6 +1,6 @@
 # GL.iNet GitHub Community
 
-![GL.iNet GitHub Community](../.github/glinet-community-banner.jpeg)
+<img src="../.github/glinet-community-banner.jpeg" alt="GL.iNet GitHub Community" width="50%">
 
 > **Unofficial, community-maintained organization** for GL.iNet router scripts, tools, documentation, integrations, and open-source projects.
 
@@ -12,7 +12,7 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 
 - `37` public repositories
 - `2,031` GitHub stars in total
-- Automatically updated on `2 Sept 2026, 23:15`
+- Automatically updated on `2 Sept 2026, 23:18`
 
 ## Repository Overview
 
