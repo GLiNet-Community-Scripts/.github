@@ -11,8 +11,8 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `37` public repositories
-- `2,032` GitHub stars in total
-- Automatically updated on `3 Sept 2026, 11:50`
+- `2,034` GitHub stars in total
+- Automatically updated on `4 Sept 2026, 11:38`
 
 ## Repository Overview
 
@@ -44,7 +44,7 @@ The following list is generated automatically from all public repositories in th
 | [Glinet-Bandwidth-script](https://github.com/GLiNet-Community-Scripts/Glinet-Bandwidth-script) | Per-VLAN/SSID QoS bandwidth priority script for GL.iNet Flint 3 using HTB + CAKE | 0 | wickedyoda | [wickedyoda/Glinet-Bandwidth-script](https://github.com/wickedyoda/Glinet-Bandwidth-script) | 31 Aug 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
-| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 721 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 2 Sept 2026 |
+| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 723 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 2 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 225 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 301 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
