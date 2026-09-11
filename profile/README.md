@@ -11,8 +11,8 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `37` public repositories
-- `2,059` GitHub stars in total
-- Automatically updated on `10 Sept 2026, 11:43`
+- `2,061` GitHub stars in total
+- Automatically updated on `11 Sept 2026, 11:41`
 
 ## Repository Overview
 
@@ -23,7 +23,7 @@ The following list is generated automatically from all public repositories in th
 | [docs-astrowarp](https://github.com/GLiNet-Community-Scripts/docs-astrowarp) | Documentation for AstroWarp VPN client on GL.iNet routers | 0 | gl-inet | [gl-inet/docs-astrowarp](https://github.com/gl-inet/docs-astrowarp) | 27 Aug 2026 |
 | [docs-iot](https://github.com/GLiNet-Community-Scripts/docs-iot) | GL.iNet docs for IoT | 4 | gl-inet | [gl-inet/docs-iot](https://github.com/gl-inet/docs-iot) | 29 May 2026 |
 | [docs-kvm](https://github.com/GLiNet-Community-Scripts/docs-kvm) | Documentation for GL.iNet KVM products | 20 | gl-inet | [gl-inet/docs-kvm](https://github.com/gl-inet/docs-kvm) | 17 Aug 2026 |
-| [docs4.x](https://github.com/GLiNet-Community-Scripts/docs4.x) | GL.iNet router documentation v4.x - setup guides, tutorials, and FAQs | 130 | gl-inet | [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) | 17 Aug 2026 |
+| [docs4.x](https://github.com/GLiNet-Community-Scripts/docs4.x) | GL.iNet router documentation v4.x - setup guides, tutorials, and FAQs | 131 | gl-inet | [gl-inet/docs4.x](https://github.com/gl-inet/docs4.x) | 17 Aug 2026 |
 | [flint2-vlan-tools](https://github.com/GLiNet-Community-Scripts/flint2-vlan-tools) | VLAN setup scripts and LuCI dashboard for GL.iNet Flint 2 | 1 | DJKatastrof | [DJKatastrof/flint2-vlan-tools](https://github.com/DJKatastrof/flint2-vlan-tools) | 1 May 2026 |
 | [GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | Interactive toolkit for managing, tuning, and monitoring GL.iNet OpenWrt routers — hardware insights, AdGuardHome, benchmarks, web terminal, and more. | 4 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | 8 Sept 2026 |
 | [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 119 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 4 Sept 2026 |
@@ -47,7 +47,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 730 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 7 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 225 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
-| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 310 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
+| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 311 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | Community discussion and support issues for GL.iNet Community Scripts | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 17 Aug 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
 | [OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | Deploy OpenSpeedTest with NGINX on GL.iNet OpenWrt routers — auto-install, persistence across firmware updates, external storage support, and clean uninstall. | 1 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | 1 Sept 2026 |
