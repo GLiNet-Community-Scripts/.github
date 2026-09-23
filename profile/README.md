@@ -10,9 +10,9 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 
 ## At a Glance
 
-- `39` public repositories
-- `2,184` GitHub stars in total
-- Automatically updated on `22 Sept 2026, 11:57`
+- `41` public repositories
+- `2,186` GitHub stars in total
+- Automatically updated on `23 Sept 2026, 11:58`
 
 ## Repository Overview
 
@@ -39,6 +39,8 @@ The following list is generated automatically from all public repositories in th
 | [GL.iNet-TS-ZT-AW](https://github.com/GLiNet-Community-Scripts/GL.iNet-TS-ZT-AW) | ZeroTier + Tailscale integration for GL.iNet routers | 0 | zippyy | [zippyy/GL.iNet-TS-ZT-AW](https://github.com/zippyy/GL.iNet-TS-ZT-AW) | 17 Aug 2026 |
 | [GL.iNet-VLAN-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-VLAN-Wizard) | Interactive VLAN Wizard Script | 3 | zippyy | [zippyy/GL.iNet-VLAN-Wizard](https://github.com/zippyy/GL.iNet-VLAN-Wizard) | 30 May 2026 |
 | [GL.iNet-WiFi-Cellular-Timer](https://github.com/GLiNet-Community-Scripts/GL.iNet-WiFi-Cellular-Timer) | WiFi and cellular timer scheduling for GL.iNet routers | 1 | zippyy | [zippyy/GL.iNet-WiFi-Cellular-Timer](https://github.com/zippyy/GL.iNet-WiFi-Cellular-Timer) | 17 Aug 2026 |
+| [glikvm-linux](https://github.com/GLiNet-Community-Scripts/glikvm-linux) | Unofficial Linux GLKVM desktop client (GL-iNet Comet / RM1 / RM10) based on the macOS and Windows packages, with glikvm-mod applied | 0 | emaspa | [emaspa/glikvm-linux](https://github.com/emaspa/glikvm-linux) | 22 Sept 2026 |
+| [glikvm-macos](https://github.com/GLiNet-Community-Scripts/glikvm-macos) | Unofficial macOS GLKVM desktop client build (GL-iNet Comet / RM1 / RM10) with glikvm-mod applied | 1 | emaspa | [emaspa/glikvm-macos](https://github.com/emaspa/glikvm-macos) | 22 Sept 2026 |
 | [glikvm-mod](https://github.com/GLiNet-Community-Scripts/glikvm-mod) | Patches for the GLKVM Windows desktop client: sessions in separate windows, paste local clipboard into the remote machine, settings UI | 0 | emaspa | [emaspa/glikvm-mod](https://github.com/emaspa/glikvm-mod) | 12 Sept 2026 |
 | [Glinet_discord_bot](https://github.com/GLiNet-Community-Scripts/Glinet_discord_bot) | Discord bot for GL.iNet community with firmware monitoring and Tailscale automation | 1 | wickedyoda | [wickedyoda/Glinet_discord_bot](https://github.com/wickedyoda/Glinet_discord_bot) | 17 Aug 2026 |
 | [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 149 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
@@ -47,7 +49,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 743 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 7 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
-| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 231 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
+| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 232 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 323 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | Community discussion and support issues for GL.iNet Community Scripts | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 17 Aug 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
