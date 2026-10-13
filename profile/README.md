@@ -11,8 +11,8 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `44` public repositories
-- `2,303` GitHub stars in total
-- Automatically updated on `12 Oct 2026, 15:09`
+- `2,304` GitHub stars in total
+- Automatically updated on `13 Oct 2026, 14:42`
 
 ## Repository Overview
 
@@ -45,7 +45,7 @@ The following list is generated automatically from all public repositories in th
 | [glikvm-macos](https://github.com/GLiNet-Community-Scripts/glikvm-macos) | Unofficial macOS GLKVM desktop client build (GL-iNet Comet / RM1 / RM10) with glikvm-mod applied | 2 | emaspa | [emaspa/glikvm-macos](https://github.com/emaspa/glikvm-macos) | 22 Sept 2026 |
 | [glikvm-mod](https://github.com/GLiNet-Community-Scripts/glikvm-mod) | Patches for the GLKVM Windows desktop client: sessions in separate windows, paste local clipboard into the remote machine, settings UI | 0 | emaspa | [emaspa/glikvm-mod](https://github.com/emaspa/glikvm-mod) | 12 Sept 2026 |
 | [Glinet_discord_bot](https://github.com/GLiNet-Community-Scripts/Glinet_discord_bot) | Discord bot for GL.iNet community with firmware monitoring and Tailscale automation | 1 | wickedyoda | [wickedyoda/Glinet_discord_bot](https://github.com/wickedyoda/Glinet_discord_bot) | 17 Aug 2026 |
-| [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 152 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
+| [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 153 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 20 Apr 2026 |
 | [Glinet-Bandwidth-script](https://github.com/GLiNet-Community-Scripts/Glinet-Bandwidth-script) | Per-VLAN/SSID QoS bandwidth priority script for GL.iNet Flint 3 using HTB + CAKE | 0 | wickedyoda | [wickedyoda/Glinet-Bandwidth-script](https://github.com/wickedyoda/Glinet-Bandwidth-script) | 13 Sept 2026 |
 | [glinet-panel-ui](https://github.com/GLiNet-Community-Scripts/glinet-panel-ui) | No description provided | 8 | blogic | [blogic/glinet-panel-ui](https://github.com/blogic/glinet-panel-ui) | 11 Oct 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
