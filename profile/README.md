@@ -11,8 +11,8 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `45` public repositories
-- `2,406` GitHub stars in total
-- Automatically updated on `27 Oct 2026, 11:33`
+- `2,407` GitHub stars in total
+- Automatically updated on `28 Oct 2026, 12:19`
 
 ## Repository Overview
 
@@ -53,7 +53,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 794 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 27 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 239 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
-| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 342 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
+| [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 343 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | Community discussion and support issues for GL.iNet Community Scripts | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 17 Aug 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
 | [MudiModem](https://github.com/GLiNet-Community-Scripts/MudiModem) | Modem control panel for the GL-E5800 (Mudi) stock web admin — band lock, cell lock, AT console, SIM/APN, community AT library. | 37 | kevinherzig | [kevinherzig/MudiModem](https://github.com/kevinherzig/MudiModem) | 13 Oct 2026 |
