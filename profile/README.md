@@ -11,8 +11,8 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `45` public repositories
-- `2,441` GitHub stars in total
-- Automatically updated on `3 Nov 2026, 13:47`
+- `2,443` GitHub stars in total
+- Automatically updated on `4 Nov 2026, 13:58`
 
 ## Repository Overview
 
@@ -50,7 +50,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-panel-ui](https://github.com/GLiNet-Community-Scripts/glinet-panel-ui) | No description provided | 8 | blogic | [blogic/glinet-panel-ui](https://github.com/blogic/glinet-panel-ui) | 11 Oct 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
-| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 807 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 27 Sept 2026 |
+| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 808 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 27 Sept 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 238 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 347 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 27 Aug 2026 |
@@ -60,7 +60,7 @@ The following list is generated automatically from all public repositories in th
 | [OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | Deploy OpenSpeedTest with NGINX on GL.iNet OpenWrt routers — auto-install, persistence across firmware updates, external storage support, and clean uninstall. | 1 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | 1 Sept 2026 |
 | [openwrt-flint3](https://github.com/GLiNet-Community-Scripts/openwrt-flint3) | Mainline OpenWrt port for GL.iNet Flint 3 (GL-BE9300, IPQ5332) — qualcommbe/ipq53xx. LAN/WAN/DSA/VLAN/Wi-Fi 7 (tri-band MLO, DFS, 802.11k/v) working; ath12k firmware hang under sustained load still being chased. | 64 | perceival | [perceival/openwrt-flint3](https://github.com/perceival/openwrt-flint3) | 8 Oct 2026 |
 | [openwrt-starwatch](https://github.com/GLiNet-Community-Scripts/openwrt-starwatch) | Starlink dish monitoring & management for OpenWrt/GL.iNet routers — Go daemon, embedded dashboard, LuCI + GL.iNet panel apps, opkg packaging | 9 | keithah | [keithah/openwrt-starwatch](https://github.com/keithah/openwrt-starwatch) | 13 Sept 2026 |
-| [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 65 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 13 Sept 2026 |
+| [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 66 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 13 Sept 2026 |
 | [RM520N-GL](https://github.com/GLiNet-Community-Scripts/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. | 255 | 4IceG | [4IceG/RM520N-GL](https://github.com/4IceG/RM520N-GL) | 12 Sept 2026 |
 | [RouterPilot](https://github.com/GLiNet-Community-Scripts/RouterPilot) | RouterPilot - A Windows desktop companion for monitoring and managing supported GL.iNet routers running AdGuard Home | 12 | TCDemo777 | [TCDemo777/RouterPilot](https://github.com/TCDemo777/RouterPilot) | 16 Sept 2026 |
 | [Tailscale-on-AP-mode](https://github.com/GLiNet-Community-Scripts/Tailscale-on-AP-mode) | No description provided | 2 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Tailscale-on-AP-mode](https://github.com/GLiNet-Community-Scripts/Tailscale-on-AP-mode) | 27 Aug 2026 |
