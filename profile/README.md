@@ -11,8 +11,8 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `45` public repositories
-- `2,492` GitHub stars in total
-- Automatically updated on `14 Nov 2026, 13:10`
+- `2,494` GitHub stars in total
+- Automatically updated on `15 Nov 2026, 13:43`
 
 ## Repository Overview
 
@@ -29,7 +29,7 @@ The following list is generated automatically from all public repositories in th
 | [gl-e5800-dashboard](https://github.com/GLiNet-Community-Scripts/gl-e5800-dashboard) | Custom touch dashboard for the GL.iNet GL-E5800's built-in screen (replaces the stock UI) | 26 | robavionix | [robavionix/gl-e5800-dashboard](https://github.com/robavionix/gl-e5800-dashboard) | 14 Sept 2026 |
 | [gl-image](https://github.com/GLiNet-Community-Scripts/gl-image) | No description provided | 12 | gl-inet | [gl-inet/gl-image](https://github.com/gl-inet/gl-image) | 13 Oct 2026 |
 | [GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | Interactive toolkit for managing, tuning, and monitoring GL.iNet OpenWrt routers — hardware insights, AdGuardHome, benchmarks, web terminal, and more. | 23 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/GL-iNet_utils](https://github.com/GLiNet-Community-Scripts/GL-iNet_utils) | 10 Nov 2026 |
-| [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 151 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 10 Oct 2026 |
+| [gl-tailscale-fix](https://github.com/GLiNet-Community-Scripts/gl-tailscale-fix) | Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management | 152 | RemoteToHome-io | [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) | 10 Oct 2026 |
 | [GL.iNet-CellularModels-SMSonBoot](https://github.com/GLiNet-Community-Scripts/GL.iNet-CellularModels-SMSonBoot) | Script to send SMS on Router Reboot | 3 | techrelay | [techrelay/GL.iNet-CellularModels-SMSonBoot](https://github.com/techrelay/GL.iNet-CellularModels-SMSonBoot) | 24 Jun 2026 |
 | [GL.iNet-CrossModel-BackupRestoreUtility](https://github.com/GLiNet-Community-Scripts/GL.iNet-CrossModel-BackupRestoreUtility) | A docker container for self hosted, Cross-Model Backup and Restore for GL.iNet Routers. | 8 | zippyy | [zippyy/GL.iNet-CrossModel-BackupRestoreUtility](https://github.com/zippyy/GL.iNet-CrossModel-BackupRestoreUtility) | 26 Sept 2026 |
 | [GL.iNet-DHCP-Options-Wizard](https://github.com/GLiNet-Community-Scripts/GL.iNet-DHCP-Options-Wizard) | Interactive DHCP options configuration wizard for GL.iNet routers | 1 | zippyy | [zippyy/GL.iNet-DHCP-Options-Wizard](https://github.com/zippyy/GL.iNet-DHCP-Options-Wizard) | 17 Aug 2026 |
@@ -52,7 +52,7 @@ The following list is generated automatically from all public repositories in th
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
 | [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 828 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 11 Nov 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
-| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 240 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
+| [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 241 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 354 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 13 Nov 2026 |
 | [Issues](https://github.com/GLiNet-Community-Scripts/Issues) | Community discussion and support issues for GL.iNet Community Scripts | 0 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/Issues](https://github.com/GLiNet-Community-Scripts/Issues) | 17 Aug 2026 |
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
