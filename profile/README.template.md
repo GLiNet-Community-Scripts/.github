@@ -14,6 +14,10 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 - `{{TOTAL_STARS}}` GitHub stars in total
 - Automatically updated on `{{GENERATED_AT}}`
 
+## Newest Additions
+
+{{RECENT_REPOS}}
+
 ## Repository Overview
 
 The following list is generated automatically from all public repositories in this organization.
