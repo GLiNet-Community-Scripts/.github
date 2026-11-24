@@ -7,6 +7,7 @@ const OUTPUT_FILE = process.env.OUTPUT_FILE || path.join("profile", "README.md")
 const TEMPLATE_FILE =
   process.env.TEMPLATE_FILE || path.join("profile", "README.template.md");
 const API_BASE_URL = process.env.GITHUB_API_BASE_URL || "https://api.github.com";
+const RECENT_WINDOW_DAYS = Number(process.env.RECENT_WINDOW_DAYS || 90);
 
 function formatDate(value) {
   return new Intl.DateTimeFormat("en-GB", {
@@ -101,6 +102,32 @@ async function fetchRepos() {
   );
 }
 
+function buildRecentSection(repos) {
+  const cutoff = Date.now() - RECENT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+  const recent = repos
+    .filter((repo) => new Date(repo.created_at).getTime() >= cutoff)
+    .sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+
+  if (recent.length === 0) {
+    return `_No repositories have been added in the last ${RECENT_WINDOW_DAYS} days._`;
+  }
+
+  const lines = [
+    "| Repository | Description | Added | Author |",
+    "| --- | --- | --- | --- |",
+  ];
+
+  for (const repo of recent) {
+    const originalRepo = getOriginalRepo(repo);
+    const author = originalRepo.owner?.login || repo.owner?.login || "-";
+    lines.push(
+      `| [${repo.name}](${repo.html_url}) | ${escapeTableCell(repo.description || "No description provided")} | ${escapeTableCell(formatRelativeDate(repo.created_at))} | ${escapeTableCell(author)} |`,
+    );
+  }
+
+  return `${recent.length} repositories added since ${formatRelativeDate(new Date(cutoff).toISOString())}.\n\n${lines.join("\n")}`;
+}
+
 function buildRepoTable(repos) {
   if (repos.length === 0) {
     return "_No public repositories were found._";
@@ -149,6 +176,7 @@ async function main() {
     .replaceAll("{{REPO_COUNT}}", formatNumber(repos.length))
     .replaceAll("{{TOTAL_STARS}}", formatNumber(totalStars))
     .replaceAll("{{GENERATED_AT}}", formatDate(new Date().toISOString()))
+    .replace("{{RECENT_REPOS}}", buildRecentSection(repos))
     .replace("{{REPO_TABLE}}", buildRepoTable(repos));
 
   await mkdir(path.dirname(OUTPUT_FILE), { recursive: true });
