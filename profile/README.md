@@ -11,12 +11,12 @@ We collect practical, open-source projects for GL.iNet and OpenWrt users: router
 ## At a Glance
 
 - `46` public repositories
-- `2,644` GitHub stars in total
-- Automatically updated on `27 Nov 2026, 16:04`
+- `2,653` GitHub stars in total
+- Automatically updated on `28 Nov 2026, 15:11`
 
 ## Newest Additions
 
-10 repositories added since 29 Aug 2026.
+10 repositories added since 30 Aug 2026.
 
 | Repository | Description | Added | Author |
 | --- | --- | --- | --- |
@@ -62,13 +62,13 @@ The following list is generated automatically from all public repositories in th
 | [glikvm-macos](https://github.com/GLiNet-Community-Scripts/glikvm-macos) | Unofficial macOS GLKVM desktop client build (GL-iNet Comet / RM1 / RM10) with glikvm-mod applied | 2 | emaspa | [emaspa/glikvm-macos](https://github.com/emaspa/glikvm-macos) | 22 Sept 2026 |
 | [glikvm-mod](https://github.com/GLiNet-Community-Scripts/glikvm-mod) | Patches for the GLKVM Windows desktop client: sessions in separate windows, paste local clipboard into the remote machine, settings UI | 0 | emaspa | [emaspa/glikvm-mod](https://github.com/emaspa/glikvm-mod) | 12 Sept 2026 |
 | [Glinet_discord_bot](https://github.com/GLiNet-Community-Scripts/Glinet_discord_bot) | Discord bot for GL.iNet community with firmware monitoring and Tailscale automation | 1 | wickedyoda | [wickedyoda/Glinet_discord_bot](https://github.com/wickedyoda/Glinet_discord_bot) | 17 Aug 2026 |
-| [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 175 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 22 Nov 2026 |
+| [glinet-adguard-updater](https://github.com/GLiNet-Community-Scripts/glinet-adguard-updater) | This script updates the AdGuard Home installation on GL.iNet routers. | 178 | admonstrator | [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) | 22 Nov 2026 |
 | [Glinet-Bandwidth-script](https://github.com/GLiNet-Community-Scripts/Glinet-Bandwidth-script) | Per-VLAN/SSID QoS bandwidth priority script for GL.iNet Flint 3 using HTB + CAKE | 1 | wickedyoda | [wickedyoda/Glinet-Bandwidth-script](https://github.com/wickedyoda/Glinet-Bandwidth-script) | 13 Sept 2026 |
-| [glinet-csa-2026-01](https://github.com/GLiNet-Community-Scripts/glinet-csa-2026-01) | Detection & Mitigation script for the CSA-2026-01 security incident on GL.iNet Routers and KVM devices. | 36 | admonstrator | [admonstrator/glinet-csa-2026-01](https://github.com/admonstrator/glinet-csa-2026-01) | 25 Nov 2026 |
+| [glinet-csa-2026-01](https://github.com/GLiNet-Community-Scripts/glinet-csa-2026-01) | Detection & Mitigation script for the CSA-2026-01 security incident on GL.iNet Routers and KVM devices. | 37 | admonstrator | [admonstrator/glinet-csa-2026-01](https://github.com/admonstrator/glinet-csa-2026-01) | 25 Nov 2026 |
 | [glinet-panel-ui](https://github.com/GLiNet-Community-Scripts/glinet-panel-ui) | No description provided | 11 | blogic | [blogic/glinet-panel-ui](https://github.com/blogic/glinet-panel-ui) | 11 Oct 2026 |
 | [glinet-spitz-ax-signal-stats](https://github.com/GLiNet-Community-Scripts/glinet-spitz-ax-signal-stats) | Barebones microservice which returns signal stats from a GL-iNet Spitz AX router | 0 | zippyy | [zippyy/glinet-spitz-ax-signal-stats](https://github.com/zippyy/glinet-spitz-ax-signal-stats) | 28 Feb 2026 |
 | [glinet-tailscale-exitnode-switch](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-exitnode-switch) | GL.iNet Toggle Switch Button functionality for Tailscale Exit Node | 11 | nsouto | [nsouto/glinet-tailscale-exitnode-switch](https://github.com/nsouto/glinet-tailscale-exitnode-switch) | 25 Mar 2026 |
-| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 855 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 25 Nov 2026 |
+| [glinet-tailscale-updater](https://github.com/GLiNet-Community-Scripts/glinet-tailscale-updater) | This script updates the Tailscale installation on GL.iNet routers. | 858 | admonstrator | [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) | 28 Nov 2026 |
 | [glinet-wifi-calling-fix](https://github.com/GLiNet-Community-Scripts/glinet-wifi-calling-fix) | Fix for WiFi calling issues on GL.iNet routers | 0 | mikeyjmatthews | [mikeyjmatthews/glinet-wifi-calling-fix](https://github.com/mikeyjmatthews/glinet-wifi-calling-fix) | 23 Aug 2026 |
 | [glkvm](https://github.com/GLiNet-Community-Scripts/glkvm) | GL.iNet KVM firmware for remote control and management | 243 | gl-inet | [gl-inet/glkvm](https://github.com/gl-inet/glkvm) | 27 Aug 2026 |
 | [glkvm-cloud](https://github.com/GLiNet-Community-Scripts/glkvm-cloud) | Self-Deployed Lightweight KVM Cloud | 364 | gl-inet | [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud) | 13 Nov 2026 |
@@ -76,7 +76,7 @@ The following list is generated automatically from all public repositories in th
 | [luci-app-mobilenetwork](https://github.com/GLiNet-Community-Scripts/luci-app-mobilenetwork) | No description provided | 1 | genusmig | [genusmig/luci-app-mobilenetwork](https://github.com/genusmig/luci-app-mobilenetwork) | 17 Aug 2026 |
 | [MudiModem](https://github.com/GLiNet-Community-Scripts/MudiModem) | Modem control panel for the GL-E5800 (Mudi) stock web admin — band lock, cell lock, AT console, SIM/APN, community AT library. | 46 | kevinherzig | [kevinherzig/MudiModem](https://github.com/kevinherzig/MudiModem) | 13 Oct 2026 |
 | [OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | Deploy OpenSpeedTest with NGINX on GL.iNet OpenWrt routers — auto-install, persistence across firmware updates, external storage support, and clean uninstall. | 3 | GLiNet-Community-Scripts | [GLiNet-Community-Scripts/OpenSpeedTestServer](https://github.com/GLiNet-Community-Scripts/OpenSpeedTestServer) | 15 Nov 2026 |
-| [openwrt-flint3](https://github.com/GLiNet-Community-Scripts/openwrt-flint3) | Mainline OpenWrt port for GL.iNet Flint 3 (GL-BE9300, IPQ5332) — qualcommbe/ipq53xx. LAN/WAN/DSA/VLAN/Wi-Fi 7 (tri-band MLO, DFS, 802.11k/v) working; ath12k firmware hang under sustained load still being chased. | 83 | perceival | [perceival/openwrt-flint3](https://github.com/perceival/openwrt-flint3) | 8 Oct 2026 |
+| [openwrt-flint3](https://github.com/GLiNet-Community-Scripts/openwrt-flint3) | Mainline OpenWrt port for GL.iNet Flint 3 (GL-BE9300, IPQ5332) — qualcommbe/ipq53xx. LAN/WAN/DSA/VLAN/Wi-Fi 7 (tri-band MLO, DFS, 802.11k/v) working; ath12k firmware hang under sustained load still being chased. | 85 | perceival | [perceival/openwrt-flint3](https://github.com/perceival/openwrt-flint3) | 8 Oct 2026 |
 | [openwrt-starwatch](https://github.com/GLiNet-Community-Scripts/openwrt-starwatch) | Starlink dish monitoring & management for OpenWrt/GL.iNet routers — Go daemon, embedded dashboard, LuCI + GL.iNet panel apps, opkg packaging | 11 | keithah | [keithah/openwrt-starwatch](https://github.com/keithah/openwrt-starwatch) | 10 Nov 2026 |
 | [Overlook](https://github.com/GLiNet-Community-Scripts/Overlook) | Overlook is a MacOS-native remote console for GL.iNet GLKVM / Comet-style KVM devices. | 73 | rcawston | [rcawston/Overlook](https://github.com/rcawston/Overlook) | 13 Sept 2026 |
 | [RM520N-GL](https://github.com/GLiNet-Community-Scripts/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. | 260 | 4IceG | [4IceG/RM520N-GL](https://github.com/4IceG/RM520N-GL) | 10 Nov 2026 |
